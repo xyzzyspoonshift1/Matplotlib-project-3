@@ -1,5 +1,6 @@
 # Matplotlib-project-3
-Building a custom visualization
+Building a custom visualization 
+Customized coloring of bar plot depending on the threshold value and varying the intensity of coloring with change in threshold value.
 
 CODE ATTACHED AS .IPYNB IN SAME REPOSITORY 
 
